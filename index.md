@@ -6,3 +6,7 @@
 ```javascript
 var dog = "Furry";
 ```
+
+- [ ] A thing to do
+- [ ] Another thing that must be done
+- [X] **This one is complete and bold**
